@@ -54,3 +54,4 @@ public class T23 extends Canvas
         win.setVisible(true);
     }
 }
+//and this

@@ -49,3 +49,4 @@ public class T24 extends Canvas {
         win.setVisible(true);
     }
 }
+//and tis

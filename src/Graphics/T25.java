@@ -35,3 +35,4 @@ public class T25 extends Canvas{
         win.setVisible(true);
     }
 }
+//and this

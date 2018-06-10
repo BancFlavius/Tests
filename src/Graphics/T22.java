@@ -52,3 +52,4 @@ public class T22 extends Canvas
         win.setVisible(true);
     }
 }
+//dont mind this
